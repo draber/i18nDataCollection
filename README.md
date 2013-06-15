@@ -10,7 +10,7 @@ the
 [CIA Factbook](https://www.cia.gov/library/publications/the-world-factbook/) 
 and 
 [Geonames](http://www.geonames.org/) 
-to update and verify your three year old database of country names. And this time you will also need the days and the months in the letter form. Internationalized of course.
+to update and verify your three year old database of country names. And this time you will also need the days and the months in the 3-letter form. Internationalized of course.
 
 The *i18n Data Collector* addresses this problem by collecting the required data from multiple resources. It puts all in a tiny 
 [SQLite](https://www.sqlite.org/) 
